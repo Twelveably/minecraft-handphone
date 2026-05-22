@@ -1,0 +1,27 @@
+{
+  "message_sent": {
+    "sounds": [
+      "handphone:notifications/message_sent"
+    ]
+  },
+  "message_received": {
+    "sounds": [
+      "handphone:notifications/message_received"
+    ]
+  },
+  "calling": {
+    "sounds": [
+      "handphone:notifications/calling"
+    ]
+  },
+  "incoming_call": {
+    "sounds": [
+      "handphone:notifications/incoming_call"
+    ]
+  },
+  "call_not_through": {
+    "sounds": [
+      "handphone:notifications/call_not_through"
+    ]
+  }
+}
